@@ -2,9 +2,9 @@
 
 ## my Bio
 
-Nama: Muhammad Junaidi
-NPM: 2210010097
-Kelas: 5B TI Reg BJB
+Nama: Muhammad Junaidi<br>
+NPM: 2210010097<br>
+Kelas: 5B TI Reg BJB<br>
 
 ## Demo
 1. Hitung dan cari kata 'yang'
